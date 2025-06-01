@@ -92,9 +92,7 @@ Let’s grow together as developers! 🌱
 
 ## 📬 Contact Me
 
-- GitHub: [@TarunGohil](https://github.com/TarunGohil)
-- LinkedIn: [Tarun Gohil](#) *(Add your link if you want)*
-- YouTube: [Tarun’s Channel](#) *(Optional)*
+- GitHub: [@tarun-102](https://github.com/tarun-102)
 
 ---
 
