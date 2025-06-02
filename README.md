@@ -28,8 +28,8 @@ By the end of 30 days, I aim to be **100% confident in JavaScript**.
 | Day | Project Name                     | Live Demo |
 |-----|----------------------------------|------------|
 | 01  | Digital Clock                    | ✅ Done |
-| 02  | Counter App                      | 🔜 Coming Soon |
-| 03  | Random Color Generator           | 🔜 Coming Soon |
+| 02  | Counter App                      | ✅ Done  |
+| 03  | Random Color Generator           | ✅ Done  |
 | 04  | Tip Calculator                   | 🔜 Coming Soon |
 | 05  | BMI Calculator                   | 🔜 Coming Soon |
 | 06  | Accordion                        | 🔜 Coming Soon |
