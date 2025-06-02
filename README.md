@@ -21,42 +21,43 @@ By the end of 30 days, I aim to be **100% confident in JavaScript**.
 - JavaScript (Vanilla JS)
 - Git & GitHub
 
+
 ---
 
-## 📅 Daily Project List
+## 📅 Project List
 
-| Day | Project Name                     | Live Demo |
-|-----|----------------------------------|------------|
-| 01  | Digital Clock                    | ✅ Done |
-| 02  | Counter App                      | ✅ Done  |
-| 03  | Random Color Generator           | ✅ Done  |
-| 04  | Tip Calculator                   | 🔜 Coming Soon |
-| 05  | BMI Calculator                   | 🔜 Coming Soon |
-| 06  | Accordion                        | 🔜 Coming Soon |
-| 07  | Modal Popup                      | 🔜 Coming Soon |
-| 08  | Image Slider                     | 🔜 Coming Soon |
-| 09  | Dark/Light Mode Toggle           | 🔜 Coming Soon |
-| 10  | Stopwatch App                    | 🔜 Coming Soon |
-| 11  | Countdown Timer                  | 🔜 Coming Soon |
-| 12  | Form Validation App              | 🔜 Coming Soon |
-| 13  | Character Counter                | 🔜 Coming Soon |
-| 14  | Drum Kit                         | 🔜 Coming Soon |
-| 15  | Quiz App                         | 🔜 Coming Soon |
-| 16  | Password Generator               | 🔜 Coming Soon |
-| 17  | Weather App (API)                | 🔜 Coming Soon |
-| 18  | Notes App (with LocalStorage)    | 🔜 Coming Soon |
-| 19  | Text-to-Speech App               | 🔜 Coming Soon |
-| 20  | Rock Paper Scissors Game         | 🔜 Coming Soon |
-| 21  | Guess the Number Game            | 🔜 Coming Soon |
-| 22  | Emoji Picker                     | 🔜 Coming Soon |
-| 23  | QR Code Generator                | 🔜 Coming Soon |
-| 24  | Scroll Progress Bar              | 🔜 Coming Soon |
-| 25  | Mouse Event Tracker              | 🔜 Coming Soon |
-| 26  | Image Zoom on Hover              | 🔜 Coming Soon |
-| 27  | To-Do List                       | 🔜 Coming Soon |
-| 28  | Expense Tracker                  | 🔜 Coming Soon |
-| 29  | Joke Generator (API)             | 🔜 Coming Soon |
-| 30  | Meme Generator (API)             | 🔜 Coming Soon |
+| Day | Project Name                         | Level         | Status         |
+|-----|--------------------------------------|---------------|----------------|
+| 01  | Digital Clock                        | 🟢 Basic       | ✅ Done         |
+| 02  | Counter App                          | 🟢 Basic       | ✅ Done         |
+| 03  | Random Color Generator               | 🟢 Basic       | ✅ Done         |
+| 04  | Tip Calculator                       | 🟢 Basic       | 🔜 Coming Soon |
+| 05  | BMI Calculator                       | 🟢 Basic       | 🔜 Coming Soon |
+| 06  | Accordion                            | 🟢 Basic       | 🔜 Coming Soon |
+| 07  | Modal Popup                          | 🟢 Basic       | 🔜 Coming Soon |
+| 08  | Image Slider                         | 🟢 Basic       | 🔜 Coming Soon |
+| 09  | Dark/Light Mode Toggle               | 🟢 Basic       | 🔜 Coming Soon |
+| 10  | Stopwatch App                        | 🟢 Basic       | 🔜 Coming Soon |
+| 11  | Countdown Timer                      | 🟠 Intermediate| 🔜 Coming Soon |
+| 12  | Form Validation                      | 🟠 Intermediate| 🔜 Coming Soon |
+| 13  | Character Counter                    | 🟠 Intermediate| 🔜 Coming Soon |
+| 14  | Drum Kit                             | 🟠 Intermediate| 🔜 Coming Soon |
+| 15  | Quiz App                             | 🟠 Intermediate| 🔜 Coming Soon |
+| 16  | Password Generator                   | 🟠 Intermediate| 🔜 Coming Soon |
+| 17  | Weather App (API)                    | 🟠 Intermediate| 🔜 Coming Soon |
+| 18  | Notes App (LocalStorage)             | 🟠 Intermediate| 🔜 Coming Soon |
+| 19  | Text-to-Speech App                   | 🟠 Intermediate| 🔜 Coming Soon |
+| 20  | Rock Paper Scissors Game             | 🟠 Intermediate| 🔜 Coming Soon |
+| 21  | Guess the Number Game                | 🟠 Intermediate| 🔜 Coming Soon |
+| 22  | Emoji Picker                         | 🟠 Intermediate| 🔜 Coming Soon |
+| 23  | QR Code Generator (API)              | 🟠 Intermediate| 🔜 Coming Soon |
+| 24  | Scroll Progress Bar                  | 🟠 Intermediate| 🔜 Coming Soon |
+| 25  | Mouse Event Tracker                  | 🟠 Intermediate| 🔜 Coming Soon |
+| 26  | Image Zoom on Hover                  | 🟠 Intermediate| 🔜 Coming Soon |
+| 27  | To-Do List (LocalStorage)            | 🔴 Advanced    | 🔜 Coming Soon |
+| 28  | Expense Tracker with Chart           | 🔴 Advanced    | 🔜 Coming Soon |
+| 29  | Joke Generator (API)                 | 🔴 Advanced    | 🔜 Coming Soon |
+| 30  | Meme Generator (API)                 | 🔴 Advanced    | 🔜 Coming Soon |
 
 ---
 
