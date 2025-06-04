@@ -31,9 +31,9 @@ By the end of 30 days, I aim to be **100% confident in JavaScript**.
 | 01  | Digital Clock                        | 🟢 Basic       | ✅ Done         |
 | 02  | Counter App                          | 🟢 Basic       | ✅ Done         |
 | 03  | Random Color Generator               | 🟢 Basic       | ✅ Done         |
-| 04  | Tip Calculator                       | 🟢 Basic       | 🔜 Coming Soon |
-| 05  | BMI Calculator                       | 🟢 Basic       | 🔜 Coming Soon |
-| 06  | Accordion                            | 🟢 Basic       | 🔜 Coming Soon |
+| 04  | Tip Calculator                       | 🟢 Basic       | ✅  Coming Soon |
+| 05  | BMI Calculator                       | 🟢 Basic       | ✅  Coming Soon |
+| 06  | Accordion                            | 🟢 Basic       | ✅  Coming Soon |
 | 07  | Modal Popup                          | 🟢 Basic       | 🔜 Coming Soon |
 | 08  | Image Slider                         | 🟢 Basic       | 🔜 Coming Soon |
 | 09  | Dark/Light Mode Toggle               | 🟢 Basic       | 🔜 Coming Soon |
