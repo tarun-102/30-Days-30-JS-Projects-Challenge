@@ -34,7 +34,7 @@ By the end of 30 days, I aim to be **100% confident in JavaScript**.
 | 04  | Tip Calculator                       | 🟢 Basic       | ✅  Done |
 | 05  | BMI Calculator                       | 🟢 Basic       | ✅  Done |
 | 06  | Accordion                            | 🟢 Basic       | ✅  Done |
-| 07  | Modal Popup                          | 🟢 Basic       | 🔜 Coming Soon |
+| 07  | Modal Popup                          | 🟢 Basic       |  ✅  Done |
 | 08  | Image Slider                         | 🟢 Basic       | 🔜 Coming Soon |
 | 09  | Dark/Light Mode Toggle               | 🟢 Basic       | 🔜 Coming Soon |
 | 10  | Stopwatch App                        | 🟢 Basic       | 🔜 Coming Soon |
