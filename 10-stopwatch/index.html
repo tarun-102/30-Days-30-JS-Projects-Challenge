@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stop Watch</title>
+    <style>
+        body{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: black;
+        }
+        .stopwatch{
+            width: 500px;
+            height: 200px;
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            gap: 30px;
+        }
+        .display{
+            font-size: 100px;
+            font-weight: bolder;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        button{
+            height: 40px;
+            width: 80px;
+            font-weight: bolder;
+            font-size: 20px;
+            border-radius: 5px;
+            border: none;
+            box-shadow: 0 0 10px white;
+            text-align: center;
+            cursor: pointer;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        .stopwatchbtn{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+        }
+    </style>
+
+</head>
+<body>
+    <div class="stopwatch">
+        <div class="display">
+            <span>00:00:00</span>
+        </div>
+        <div class="stopwatchbtn">
+            <button id="start">Start</button>
+            <button id="stop">Stop</button>
+            <button id="reset">Reset</button>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
