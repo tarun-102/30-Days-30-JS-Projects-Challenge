@@ -1,11 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Countdown Timer</title>
+  </head>
+  <body>
+    <div class="container">
+      <input type="number" placeholder="Hour" id="hour" min="0" max="99" />
+      <input type="number" placeholder="Minute" id="minute" min="0" max="59" />
+      <input type="number" placeholder="Second" id="second" min="0" max="59" />
+
+      <span>00:00:00</span>
+      
+      <button id="start">Start</button>
+      <button id="stop">Stop</button>
+      <button id="reset">Reset</button>
+    </div>
+    <script src="app.js"></script>
+  </body>
 </html>
