@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drum Kit</title>
+    <style>
+         body {
+      background-color: #222;
+      color: #fff;
+      text-align: center;
+      font-family: sans-serif;
+    }
+
+    h1 {
+      margin-top: 40px;
+      font-size: 3rem;
+    }
+
+    .drum-container {
+      margin-top: 50px;
+    }
+
+    .drum {
+      display: inline-block;
+      margin: 20px;
+      padding: 20px 30px;
+      font-size: 2rem;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      background-color: #444;
+      color: #fff;
+      transition: 0.1s;
+    }
+
+    .drum:active,
+    .pressed, .click {
+      background-color: #ff6347;
+      box-shadow: 0 0 20px #ff6347;
+      transform: scale(1.1);
+      border-radius: 10px;
+    }
+    </style>
+</head>
+<body>
+    <h1>Drum Kit</h1>
+    <div class="drun-container">
+        <button class="drum" data-key="w"="">w</button>
+        <button class="drum" data-key="a"="">A</button>
+        <button class="drum" data-key="s"="">S</button>
+        <button class="drum" data-key="d"="">D</button>
+        <button class="drum" data-key="j"="">J</button>
+        <button class="drum" data-key="k"="">K</button>
+        <button class="drum" data-key="l"="">L</button>
+    </div>
+    <script src="app/app.js"></script>
+</body>
+</html>
