@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Character Counter</title>
+    <style>
+        body{
+            height: 100vh;
+        }
+        .container{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 300px;
+            flex-direction: column;
+        }
+        #child{
+            margin-top: 20px;
+            display: flex;
+            align-items: center;    
+            justify-content: space-around;
+            width: 200px;
+            gap: 50px;
+        }
+        textarea{
+            outline: none;
+            border: none;
+            resize: none;
+            height: 150px;
+            width: 300px;
+            border-radius: 5px;
+            background-color: lightgray;
+        }
+        textarea:hover{ 
+            border: 2px solid black;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <textarea  id="text" placeholder="enter your text" maxlength="280"></textarea>
+        <div id="child">
+            <p id="character">0/280</p>
+            <p id="words">Words: 0</p>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
