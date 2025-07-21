@@ -26,38 +26,38 @@ By the end of 30 days, I aim to be **100% confident in JavaScript**.
 
 ## 📅 Project List
 
-| Day | Project Name                         | Level         | Status         |
-|-----|--------------------------------------|---------------|----------------|
-| 01  | Digital Clock                        | 🟢 Basic       | ✅ Done         |
-| 02  | Counter App                          | 🟢 Basic       | ✅ Done         |
-| 03  | Random Color Generator               | 🟢 Basic       | ✅ Done         |
-| 04  | Tip Calculator                       | 🟢 Basic       | ✅  Done |
-| 05  | BMI Calculator                       | 🟢 Basic       | ✅  Done |
-| 06  | Accordion                            | 🟢 Basic       | ✅  Done |
-| 07  | Modal Popup                          | 🟢 Basic       |  ✅  Done |
-| 08  | Image Slider                         | 🟢 Basic       | 🔜 Coming Soon |
-| 09  | Dark/Light Mode Toggle               | 🟢 Basic       | 🔜 Coming Soon |
-| 10  | Stopwatch App                        | 🟢 Basic       | 🔜 Coming Soon |
-| 11  | Countdown Timer                      | 🟠 Intermediate| 🔜 Coming Soon |
-| 12  | Form Validation                      | 🟠 Intermediate| 🔜 Coming Soon |
-| 13  | Character Counter                    | 🟠 Intermediate| 🔜 Coming Soon |
-| 14  | Drum Kit                             | 🟠 Intermediate| 🔜 Coming Soon |
-| 15  | Quiz App                             | 🟠 Intermediate| 🔜 Coming Soon |
-| 16  | Password Generator                   | 🟠 Intermediate| 🔜 Coming Soon |
-| 17  | Weather App (API)                    | 🟠 Intermediate| 🔜 Coming Soon |
-| 18  | Notes App (LocalStorage)             | 🟠 Intermediate| 🔜 Coming Soon |
-| 19  | Text-to-Speech App                   | 🟠 Intermediate| 🔜 Coming Soon |
-| 20  | Rock Paper Scissors Game             | 🟠 Intermediate| 🔜 Coming Soon |
-| 21  | Guess the Number Game                | 🟠 Intermediate| 🔜 Coming Soon |
-| 22  | Emoji Picker                         | 🟠 Intermediate| 🔜 Coming Soon |
-| 23  | QR Code Generator (API)              | 🟠 Intermediate| 🔜 Coming Soon |
-| 24  | Scroll Progress Bar                  | 🟠 Intermediate| 🔜 Coming Soon |
-| 25  | Mouse Event Tracker                  | 🟠 Intermediate| 🔜 Coming Soon |
-| 26  | Image Zoom on Hover                  | 🟠 Intermediate| 🔜 Coming Soon |
-| 27  | To-Do List (LocalStorage)            | 🔴 Advanced    | 🔜 Coming Soon |
-| 28  | Expense Tracker with Chart           | 🔴 Advanced    | 🔜 Coming Soon |
-| 29  | Joke Generator (API)                 | 🔴 Advanced    | 🔜 Coming Soon |
-| 30  | Meme Generator (API)                 | 🔴 Advanced    | 🔜 Coming Soon |
+| Day | Project Name                         | Level           |
+|-----|--------------------------------------|-------------    |
+| 01  | Digital Clock                        | 🟢 Basic       | 
+| 02  | Counter App                          | 🟢 Basic       | 
+| 03  | Random Color Generator               | 🟢 Basic       | 
+| 04  | Tip Calculator                       | 🟢 Basic       | 
+| 05  | BMI Calculator                       | 🟢 Basic       | 
+| 06  | Accordion                            | 🟢 Basic       | 
+| 07  | Modal Popup                          | 🟢 Basic       | 
+| 08  | Image Slider                         | 🟢 Basic       |
+| 09  | Dark/Light Mode Toggle               | 🟢 Basic       |
+| 10  | Stopwatch App                        | 🟢 Basic       |
+| 11  | Countdown Timer                      | 🟠 Intermediate|
+| 12  | Form Validation                      | 🟠 Intermediate|
+| 13  | Character Counter                    | 🟠 Intermediate|
+| 14  | Drum Kit                             | 🟠 Intermediate|
+| 15  | Quiz App                             | 🟠 Intermediate|
+| 16  | Password Generator                   | 🟠 Intermediate|
+| 17  | Weather App (API)                    | 🟠 Intermediate|
+| 18  | Notes App (LocalStorage)             | 🟠 Intermediate|
+| 19  | Text-to-Speech App                   | 🟠 Intermediate|
+| 20  | Rock Paper Scissors Game             | 🟠 Intermediate|
+| 21  | Guess the Number Game                | 🟠 Intermediate|
+| 22  | Emoji Picker                         | 🟠 Intermediate|
+| 23  | QR Code Generator (API)              | 🟠 Intermediate|
+| 24  | Scroll Progress Bar                  | 🟠 Intermediate|
+| 25  | Mouse Event Tracker                  | 🟠 Intermediate|
+| 26  | Image Zoom on Hover                  | 🟠 Intermediate|
+| 27  | To-Do List (LocalStorage)            | 🔴 Advanced    |
+| 28  | Expense Tracker with Chart           | 🔴 Advanced    |
+| 29  | Joke Generator (API)                 | 🔴 Advanced    |
+| 30  | Meme Generator (API)                 | 🔴 Advanced    |
 
 ---
 
