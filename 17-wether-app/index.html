@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>wheter App</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="main-container">
+      <nav>
+        <div class="logo-container">
+          <div id="wether-logo"></div>
+          <h1>weather</h1>
+        </div>
+
+        <div class="search-container">
+          <input type="search" id="search" placeholder="Search your city" />
+          <button id="searchbtn">Search</button>
+        </div>
+      </nav>
+      <div class="main-section">
+        <div class="subcontent">
+          <div id="temp">45 c</div>
+          <p id="cloud">cloudly</p>
+          <p id="humanity">Humanity 36%</p>
+          <p id="cityname" class="citywind"></p>
+
+          <p id="windspeed" class="citywind">WindSpeed</p>
+        </div>
+        <div class="days-container" id="forecast">
+          <!-- Forecast data will be added here via JS -->
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
