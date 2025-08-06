@@ -1,0 +1,105 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f4f4f4;
+  color: #333;
+  transition: all 0.3s ease;
+}
+
+.dark-mode {
+  background-color: #121212;
+  color: #f4f4f4;
+}
+
+.main-container {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+#themeToggle {
+  float: right;
+  margin-bottom: 10px;
+}
+
+#title,
+#notesText {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+#notesText {
+  height: 100px;
+}
+
+#notesText:focus,
+#title:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+#addNote {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#addNote:hover {
+  background-color: #0056b3;
+}
+
+#search {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.noteCard {
+  background: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+  position: relative;
+  margin-top: 10px;
+}
+
+.noteCard h3 {
+  margin-top: 0;
+}
+
+.noteCard button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: crimson;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.noteCard button:hover {
+  background-color: darkred;
+}
+
+.dark-mode .noteCard {
+  background-color: #1e1e1e;
+  color: white;
+}
