@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text to speach App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="app" id="app">
+        <header>
+            <div class="brand">
+                <div class="logo" aria-hidden="true">🔊</div>
+                <div>
+                    <h1>Text To Speach</h1>
+                    <div class="muted">Vanilla js. Speach API</div>
+
+                </div>
+            </div>
+            <div>
+                <span class="badge" id="status">Ready</span>
+            </div>
+        </header>
+
+        <main>
+            <section class="card" aria-label="Text input">
+                <div class="row" style="margin-bottom: 8px;">
+                    <div style="flex: 2;">
+                        <label for="preset">Quick test</label>
+                        <select id="preset">
+                            <option value="">- Select a sample - </option>
+                            <option
+                                value="Namaste! Yeh ek simple Text to Speech app hai. Aap text likho, voice select karo, aur Play dabao.">
+                                Hindi (Namaste sample)</option>
+                            ption value="Hello! This is a simple Text to Speech app. Type your message, choose a voice,
+                            and press Play.">English sample</option>
+                            <option value="ગુજરાતી નમસ્તે! આ એક સરળ ટેક્સ્ટ ટુ સ્પીચ એપ છે.">Gujarati sample</option>
+                        </select>
+                        </select>
+                    </div>
+                    <div>
+                        <label for="lang">Language filter</label>
+                        <select id="lang">
+                            <option value="">All Language</option>
+                            option value="hi">Hindi (hi)</option>
+                            <option value="gu">Gujarati (gu)</option>
+                            <option value="en">English (en)</option>
+                            <option value="bn">Bengali (bn)</option>
+                            <option value="ta">Tamil (ta)</option>
+                            <option value="te">Telugu (te)</option>
+                        </select>
+                    </div>
+                </div>
+                <label for="text">your text</label>
+                <textarea id="text" placeholder="type yout text here... press ctrl /⌘ + enter to play"></textarea>
+                <div style="display: flex; justify-content: space-around; align-items: center; margin-top: 8px;">
+                    <span class="counter" id="counter">0 Character</span>
+                    <span class="small">Tip: press <span class="kbd">ctrl</span> + <span class="kbd">Enter</span>to play
+                    </span>
+                </div>
+                <div class="control" style="margin-top: 12px;">
+                    <button id="play" class="primary">▶ Play</button>
+                    <button id="pouse" class="warn" disabled>⏸ Pause</button>
+                    <button id="resume" class="success" disabled>⏯ Resume</button>
+                    <button id="stop" class="denger" disabled>⏹ Stop</button>
+                </div>
+            </section>
+            <aside class="card" aria-label="voice and settings">
+                <div class="row" style="margin-top: 8px;">
+                    <div>
+                        <label for="voice">voice</label>
+                        <select id="voice"></select>
+                    </div>
+                </div>
+                <div class="row">
+                    <div>
+                        <label for="rate">Rate: <span id="rateval">1.0</span></label>
+                        <input id="rate" type="range" min="0.5" max="2" stop='0.1' value="1">
+                    </div>
+                    <div>
+                        <label for="pitch">Pitch: <span id="pitchval">1.0</span> </label>
+                        <input type="range" id="pitch" min="0" max="2" stop="0.1" value="1">
+                    </div>
+                    <div>
+                        <label for="volume">volume: <span id="volumeval">1.0</span></label>
+                        <input type="range" id="volume" min="0" max="1" stop="0.5" value="1">
+                    </div>
+                </div>
+                <div style="margin-top: 10px;">
+                    <span class="pill">💡 If you don't see Indian voices, reload the page after a few seconds.</span>
+                </div>
+            </aside>
+        </main>
+
+        <div class="footer">
+            <div>
+                <span class="small">uses the <b>Speech Synthesis</b>API built into morden browsers</span>
+            </div>
+            <div>
+                <span class="small">Made with ❤️ in Vanilla JS</span>
+            </div>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+
+</html>
