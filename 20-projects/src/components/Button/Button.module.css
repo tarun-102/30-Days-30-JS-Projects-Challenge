@@ -1,0 +1,16 @@
+/* Button.module.css */
+.defaultBtn {
+    height: 45px;
+    padding: 0 20px;
+    border-radius: 5px;
+    border: none;
+    font-weight: 600;
+    cursor: pointer;
+    background-color: #4e4ee5; /* Default color */
+    color: white;
+    transition: 0.3s;
+}
+
+.defaultBtn:hover {
+    opacity: 0.9;
+}

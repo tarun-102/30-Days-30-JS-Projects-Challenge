@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+.root {
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    padding: 4rem 0;
+    padding: 0 5%;
+}
+.rightpart{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.heroimg {
+    height: 300px;
+}
+.leftpart {
+    width: 50%;
+}
+.leftpart h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+} 
+.leftpart p {
+    font-size: 1.1rem;
+    color: #555;
+    margin-bottom: 2rem;
+}
+.lernbtn{
+    background-color: #d6d4d4 !important;;
+    color: black  !important;
+    margin-left: 20px !important;
+}
+
+#services {
+    display: flex;
+    padding: 0 5%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#services h1 {
+    font-size: 3.3rem;
+    font-weight: 600;
+    margin-top: -1rem;
+
+}
+#services h3 {
+
+    font-weight: 600;
+    margin-top: 3rem;
+
+}
+.cardsection{
+    padding: 0 5%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
